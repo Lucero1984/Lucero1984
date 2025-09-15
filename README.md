@@ -5,7 +5,10 @@ ___
 
 
 ## 💻 Tecnologies
-Python
+Python (Nunpy, Pandas, sklearn)
 SQL
+Machine Learning
+Power BI (basico)
+Tableau
 
 
