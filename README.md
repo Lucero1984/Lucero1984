@@ -22,11 +22,10 @@ ___
 
 
 
-## 💻 Tecnologies
-Python (Nunpy, Pandas, sklearn)
-SQL
+### Tecnologies skills
+Python (Numpy, Pandas, sklearn)
 Machine Learning
 Power BI (basico)
-Tableau
+
 
 
